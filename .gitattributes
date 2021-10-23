@@ -1,2 +1,5 @@
-# This is an archive, so we want to leave all of the files the way they are.
-* binary
+# This is an archive, so we want to leave most of the files the way they are.
+# Thanks, VonC <https://stackoverflow.com/users/6309/vonc> for <https://stackoverflow.com/a/4264522>
+* -text
+
+*.md text
