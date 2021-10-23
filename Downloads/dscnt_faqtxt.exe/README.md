@@ -1,7 +1,7 @@
 # dscnt_faqtxt.exe
 This file was originally available at <http://www.gamesonline.com/files/dscnt_faqtxt.exe>.
 
-## How to extracting
+## How to extract
 This is a self-extracting archive. Run it to extract it.
 
 ## Metadata
