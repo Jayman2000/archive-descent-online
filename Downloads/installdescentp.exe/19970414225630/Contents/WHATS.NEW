@@ -1,0 +1,35 @@
+What's new in Descent Online v0.84
+
+* Long player names no longer wrap around in the game details dialog
+  box.
+
+* Players should no longer time out and lose their connections while
+  looking at menus, the end-game kill matrix, and other secondary screens.
+
+* Default descriptions for players with long callsigns should no longer
+  overflow the game description field in the game setup dialogs.
+
+* Occasionally an extra letter would appear in the callsigns of some
+  players in the game detail dialog box. This extraneous letter has been
+  removed.
+
+* Explanatory messages have been added to unsuccessful game join attempts.
+  Now the game will tell you why you are unable to join a particular
+  game.
+
+What's new in Descent Online v0.83
+
+* There is now an enforced 1 minute delay between the time you leave a
+  game and the time you can rejoin that game. This discourages the
+  practice of leaving a game either to avoid being killed or simply to
+  gain additional shield powerups.
+
+* Pressing SHIFT+BACKSPACE keys simultaneously no longer causes a crash.
+
+* Corrected a bug in the messaging protocol.
+
+* Dead players' ships are no longer visible to newly joining players (until
+  the dead player respawns, of course).
+
+* Client no longer attempts to connect to the game server after playing
+  back a demo file.
