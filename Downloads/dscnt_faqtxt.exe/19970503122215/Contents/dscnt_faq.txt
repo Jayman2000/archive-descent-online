@@ -1,0 +1,65 @@
+Descent Online FAQ
+
+
+  I am using a Gateway 2000 P75 and the colors in Descent Online are distorted.  
+ Perform a hard reboot of your computer and go into your Bios Setup.  Find the "VGA Palette Snoop" 
+option and disable it.  This should fix the problem.
+ 
+  Descent Online runs slowly on my machine, especially in large battles.  
+ Try putting your detail level on a lower setting.  Also try using F3 and +/- to change the size of the 
+game window.  Also, lowering the number of available sound channels through the 
+Options/Detail/Custom menus can help significantly in large battles.
+ 
+  I have a small game window and a low detail level, but Descent Online still loads and runs slowly.  
+ Check you sound card settings by running the Descent Online Setup program.  Incorrect settings can 
+cause significant slowing.  To access the Setup program, go to the GAMES\DESCENTO subdirectory, 
+type SETUP and press Enter.
+ 
+  My walls in my game seem to jump around in the distance.  
+ This can happen when the Detail Level is set below the highest setting.
+ 
+  My computer has 8 MB of RAM.  How do I speed up the game and reduce the hard drive access 
+time?
+ If you have less that 16 MB of RAM, try running a disk cache (even as small as 256k).  This can help 
+immensely.  Also load the game by typing "DESCENTO -lowmem" so you trade off animation detail 
+for speed.  You might consider purchasing a memory upgrade; every meg of RAM you add will 
+increase performance.
+ 
+  Why does Descent Online lock up when I run it?
+ It could be a sound card problem; load the program by typing "DESCENT ONLINE -nosound".  Run 
+the Setup program and make sure your card settings are correct.  If you do not hear digital sounds or 
+music when you test them in Setup, try the Auto Detect Sound Hardware option.  If this does not help, 
+refer to your sound card manual for troubleshooting instructions. 
+ 
+  Why does my computer lock up during setup when autodetecting for a sound card?
+ Due to hardware conflicts, autodetecting for sound cards is a risky process.  If you know the brand, 
+port address, IRQ and DMA of your sound cards; you should manually configure these items.  
+Lockups are also common when autodetection is used but no sound cards are installed. 
+ 
+  I do not hear anything when I test my sound in setup?
+ There are several possibilities.  You may have the wrong sound cared selected.  You may have 
+selected the incorrect port, IRO or DMA settings.  The volume may be set too low in your sound 
+drivers (or the volume slider on the back of your sound card).  Hardware conflicts or loose cables may 
+also be to blame.
+ 
+  Why does the introduction music stop when I reach the Main menu?
+ You probably have your Music Volume slider set too low in the Options menu.  All Options settings 
+are stored in your pilot file;  when the game identifies your pilot name, it lowers the volume to a level 
+you may have customized.
+ 
+  My joystick is not responding when I play the game?
+ Be sure you have Joystick selected in the Options/Controls menu, and make sure the joystick is 
+calibrated.  If your joystick connects to your sound card, make sure the joystick port jumper is enabled 
+on the card.  Some sound cards have this disabled by default.
+ 
+   Hey!  Why did some of my powerups disappear?
+ Certain powerups will remove themselves from the game if they have been around four or five 
+minutes.  This only happens to Concussion missiles, Energy powerups and Shield powerups dropped 
+by a dead player.
+ 
+   I have a Thrustmaster WCS hooked up with a joystick.  When I use the stick to fly and the A 
+and Z keys to move forward and backward, I start flying out of control.   
+ Because these devices intercept the keyboard signals, your ship may fly strangely when you also hold 
+down keyboard keys (like A and Z). It's recommended that you use WCS or FLCS for throttle control 
+and sliding, not the keyboard. 
+ 
