@@ -24,3 +24,6 @@ It wouldn’t let me finish the installation because I didn’t have Descent Onl
 |---------------------------|------------------------------------|-------------------|-----------------|-----------|
 |_Descent Online (upgrade)_ |Patch file from 0.85 to 0.84.       |0.85 to 0.84       |April 15th, 1997 |1.4 Megs   |
 |_Descent Online (upgrade)_ |Patch file from 1.06.00 to 1.07.00. |1.06.00 to 1.07.00 |June 11, 1997    |1.4 Megs   |
+
+## Miscellaneous information
+`TOURNEY.MSN` was presumably for [the ENGAGE Descent Tournament Challenge](https://web.archive.org/web/19970618210132/http://www.gamesonline.com/new/tourney/index.html).
